@@ -1,98 +1,106 @@
-# Sujal Kanojia
-## Brand Strategist in the Making | Marketing | Team Work | Storytelling | GTM
+# Sujal Kanojia - Portfolio Website
 
-📍 **Jabalpur, Madhya Pradesh, India**
+A modern, responsive portfolio website showcasing my professional background, skills, and projects as a Brand Strategist and Marketing Professional.
+
+## 📋 Features
+
+- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
+- **Modern UI**: Clean and professional design with smooth animations
+- **Sections**:
+  - Hero Section: Eye-catching introduction
+  - About: Personal and professional overview
+  - Experience: Timeline of professional journey
+  - Skills: Categorized expertise areas
+  - Projects: Featured work and initiatives
+  - Contact: Multiple ways to connect
+- **Interactive Elements**: Smooth scrolling and scroll animations
+- **Accessibility**: Semantic HTML and proper color contrast
+
+## 🛠️ Technologies Used
+
+- **HTML5**: Semantic markup
+- **CSS3**: Modern styling with CSS variables and Grid/Flexbox
+- **JavaScript**: Interactive features and animations
+- **Font Awesome**: Icon library
+
+## 📁 Project Structure
+
+```
+.
+├── index.html       # Main HTML file
+├── styles.css       # Styling
+├── script.js        # JavaScript functionality
+└── README.md        # This file
+```
+
+## 🚀 Getting Started
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Sujal-says-25/Sujal-Kanojia.git
+   cd Sujal-Kanojia
+   ```
+
+2. **Checkout the portfolio-website branch**:
+   ```bash
+   git checkout portfolio-website
+   ```
+
+3. **Open in browser**:
+   - Simply open `index.html` in your web browser
+   - Or use a local server:
+     ```bash
+     python -m http.server 8000
+     ```
+   - Then visit `http://localhost:8000`
+
+## 🎨 Customization
+
+### Colors
+Modify the CSS variables in `styles.css`:
+```css
+:root {
+    --primary-color: #2563eb;
+    --secondary-color: #1e40af;
+    --accent-color: #f59e0b;
+    /* ... other colors */
+}
+```
+
+### Content
+Edit `index.html` to update:
+- Personal information
+- Experience details
+- Skills
+- Projects
+- Contact information
+
+## 📱 Responsive Breakpoints
+
+- **Desktop**: 1200px and above
+- **Tablet**: 768px to 1199px
+- **Mobile**: Below 768px
+
+## ✨ Future Enhancements
+
+- [ ] Add a blog section
+- [ ] Implement a contact form
+- [ ] Add dark mode toggle
+- [ ] Include case studies
+- [ ] Add testimonials section
+- [ ] Implement lazy loading for images
+- [ ] Add animations for project cards
+
+## 📞 Contact
+
+- **Email**: sujalkanojia849@gmail.com
+- **LinkedIn**: [linkedin.com/in/sujalkanojia-2510s](https://www.linkedin.com/in/sujalkanojia-2510s)
+- **GitHub**: [github.com/Sujal-says-25](https://github.com/Sujal-says-25)
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
-## 👋 About Me
-
-Ambitious marketing professional with a background in B.Com (Hons) Research. I'm passionate about becoming a **Brand Manager** focused on launching products and turning features into narratives that resonate with people.
-
-I combine:
-- 📊 **Market Research** to understand consumer needs
-- 🎯 **Storytelling** to create meaningful brand experiences
-
-Beyond work, you'll find me on a football pitch, trekking through nature, or exploring new places. I'm always open to meaningful collaborations and new opportunities!
-
----
-
-## 💼 Professional Experience
-
-### **Marketing Intern** | DesignTech Systems
-**May 2026 - Present** (2 months) • On-site
-
-### **Co-Founder & Building Lead** | K1T
-**May 2025 - Present** (1 year 1 month) • India (Hybrid)
-- **Skills:** Start-up Leadership, Start-up Ventures, Storytelling
-
-### **Sales Promoter** | Dabur India Limited
-**January 2026 - January 2026** (1 month) • Jabalpur
-- **Achievement:** BEST CADET 1MP BN NCC JABALPUR
-- Learned consumer perception and objection handling through direct engagement with retail customers
-- Privileged to be part of Dabur's Golden Event
-- **Skills:** Product Promotion, Objection Handling (Sales), Consumer Perception
-
-### **Ex NCC Cadet** | NATIONAL CADET CORPS
-**October 2021 - June 2024** (2 years 9 months) • Jabalpur
-- **Recognition:** Best Cadet ST. ALOYSIUS COLLEGE (AUTONOMOUS), JABALPUR
-
----
-
-## 🎓 Education
-**MBA Marketing (Pursuing)** | SPPU University 
-
-**Bachelor of Commerce (Hons)** | St. Aloysius College, Jabalpur
-- Focus: Business, Management, Marketing, Finance, Research
-- September 2021 - July 2025
-
-**12th Commerce** | ST. GABRIEL'S HIGHER SECONDARY SCHOOL, JABALPUR
-
----
-
-## 🏆 Top Skills
-
-- Product Promotion
-- Consumer Perception
-- Objection Handling (Sales)
-- Team Work
-- Resilience
-- Story Telling
-- GTM (Go-To-Market) Strategy
-- Brand Strategy
-- Market Research
-- Digital Marketing
-
----
-
-## 🎖️ Certifications
-
-**Entrepreneurship and Innovation Job Simulation** | City of Moreton Bay
-
----
-
-## 📞 Get in Touch
-
-- 📧 **Email:** sujalkanojia849@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/sujalkanojia-2510s](https://www.linkedin.com/in/sujalkanojia-2510s)
-
----
-
-## 🚀 What I'm Exploring
-
-I'm keen on exploring the tech world as a tech-savvy marketer. Interested in:
-- How technology intersects with brand strategy
-- Digital transformation in marketing
-- Building tech-driven solutions
-- Open to collaborations and learning opportunities
-
----
-
-## 💡 Let's Connect!
-
-Always open to:
-- 🤝 Collaborations
-- 📚 Learning opportunities
-- 🌍 Networking with fellow professionals
-
-**Feel free to reach out via email or LinkedIn!**
+**Made with ❤️ by Sujal Kanojia**
