@@ -11,7 +11,6 @@ Ambitious marketing professional with a background in B.Com (Hons) Research. I'm
 
 I combine:
 - 📊 **Market Research** to understand consumer needs
-- 📱 **Digital Marketing** to reach audiences where they are
 - 🎯 **Storytelling** to create meaningful brand experiences
 
 Beyond work, you'll find me on a football pitch, trekking through nature, or exploring new places. I'm always open to meaningful collaborations and new opportunities!
@@ -41,6 +40,7 @@ Beyond work, you'll find me on a football pitch, trekking through nature, or exp
 ---
 
 ## 🎓 Education
+**MBA Marketing (Pursuing)** | SPPU University 
 
 **Bachelor of Commerce (Hons)** | St. Aloysius College, Jabalpur
 - Focus: Business, Management, Marketing, Finance, Research
@@ -73,7 +73,6 @@ Beyond work, you'll find me on a football pitch, trekking through nature, or exp
 
 ## 📞 Get in Touch
 
-- 📱 **Phone:** +91 7389042176
 - 📧 **Email:** sujalkanojia849@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/sujalkanojia-2510s](https://www.linkedin.com/in/sujalkanojia-2510s)
 
